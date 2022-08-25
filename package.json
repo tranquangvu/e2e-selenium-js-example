@@ -8,7 +8,7 @@
     "test:only": "mocha --no-timeouts --parallel",
     "test:report": "cd mochawesome-report && open mochawesome.html"
   },
-  "author": "",
+  "author": "bentran",
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.18.10",
