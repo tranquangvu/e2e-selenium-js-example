@@ -18,3 +18,5 @@ npm test:only specs/authentication/login.js
 # Open report after running all tests
 npm test:report
 ```
+
+### My updates
